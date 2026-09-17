@@ -1,0 +1,6 @@
+{
+  "name": "Emergency SOS – Personal Safety & Emergency Alert System",
+  "description": "Personal Safety and Emergency Alert System featuring one-touch SOS activation with 5-second countdown, GPS geolocation tracking, emergency contact management, and quick emergency services dispatch.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
